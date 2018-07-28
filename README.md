@@ -2,4 +2,5 @@
 
 ## Command to run 
 
-### Add Index - $ruby main.rb
+### Add Index - 
+   $ruby main.rb
